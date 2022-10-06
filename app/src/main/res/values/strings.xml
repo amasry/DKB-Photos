@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DKB Photos</string>
+    <string name="dkb_photo_content_description">DKB Photo</string>
+    <string name="generic_error">\"Something went wrong, please try again later\"</string>
+</resources>
